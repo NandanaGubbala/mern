@@ -1,0 +1,44 @@
+
+#cal{
+    width: 50%;
+    height:auto ;
+    background-color: rgb(182, 182, 213);
+    text-align: center;
+    align-items: center;
+    /* display:flex; */
+    margin: 250px;
+    margin-left: 20%;
+    font-size: 50px;
+    padding: 70px;
+
+}
+
+.sss{
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+
+.main{
+    width: 40%;
+    height: auto;
+    align-items: center;
+    margin: 50px;
+    background-color: rgb(206, 175, 235);
+    margin-left: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+.box{
+    background-color: rgb(169, 162, 162);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    font-size: large;
+    margin: 10px;
+    
+}
+.displaybox{
+    height: 50px;
+}
